@@ -13,5 +13,5 @@ This is my first Python project from the CS50P course. The program prompts the u
 cd name-of-repo-folder
 python indoor.py
 
-Type your input and press Enter. The program prints the text in lowercase.
+#Type your input and press Enter. The program prints the text in lowercase.
 
